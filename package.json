@@ -32,5 +32,15 @@
     "code format",
     "style checker",
     "style linter"
-  ]
+  ],
+  "dependencies": {
+    "eslint-plugin-graphql": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "graphql": "15.6.1"
+  },
+  "peerDependencies": {
+    "eslint": "^7.32.0"
+  }
 }
