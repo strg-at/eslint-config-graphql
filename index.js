@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    // TODO: add node config once published
+    '@strg/eslint-config-node'
   ],
   plugins: [
     'graphql',
