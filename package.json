@@ -34,7 +34,7 @@
     "style linter"
   ],
   "dependencies": {
-    "@strg/eslint-config-node": "^1.0.0",
+    "@strg/eslint-config-node": "^2.0.0",
     "eslint-plugin-graphql": "^4.0.0"
   },
   "devDependencies": {
